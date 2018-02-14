@@ -1,4 +1,4 @@
-# Sokaklarda ne ararsın beni kimden sorarsın - Mobile 200
+# Sokaklarda ne ararsın beni kimden sorarsın - OSINT 400
 
 ```
 Pelinsu acaba Hollanda'dan kalkıp savaş bölgesine doğru gitmiş olabilir miydi ? Buraları iyi bilen birilerini araştırmak gerekecek ...

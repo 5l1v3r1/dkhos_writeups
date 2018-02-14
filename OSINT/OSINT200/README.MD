@@ -1,4 +1,4 @@
-# Sokaklarda ne ararsın beni kimden sorarsın - Mobile 200
+# Sokaklarda ne ararsın beni kimden sorarsın - OSINT 200
 
 
 
