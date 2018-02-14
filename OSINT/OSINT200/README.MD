@@ -22,4 +22,3 @@ Sorudaki arkadasi bulup çantasının markasını `DAKINE` flag olarak deniyoruz
 ```
 DKHOS_{DAKINE}
 ```
-#### Çözen Grup Arkadaşımızın Reklamı : https://www.d1scharg3d.me
