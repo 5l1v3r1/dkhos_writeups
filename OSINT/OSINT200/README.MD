@@ -3,7 +3,7 @@
 
 
 
-[VIDEO]((814c07fd840d64357978548215168ebbaedf0150.mp4)
+[VIDEO](814c07fd840d64357978548215168ebbaedf0150.mp4)
 ```
 Mahmut ulaştığı kayıtları incelediğinde Pelinsu'nun lokasyonunun çocuğun çantasında gizli olduğunu düşünmekteydi.
 
