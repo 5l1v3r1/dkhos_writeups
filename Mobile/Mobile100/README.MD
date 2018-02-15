@@ -1,6 +1,8 @@
 # Ayrılığın hediyesi - Mobile 100
 
-Belki dahada temiz yolu vardir ama biz yine amelasyon yola kacacagiz.
+```
+Pelinsu'nun uzun zamandır kullandığı bir cep telefonunu en yakın arkadaşlarından biri Cansu'ya vermişti. Pelinsu'nun kaybolduğunu öğrenen Cansu ise telefonu hızlıca Mahmut'a ulaştırmış ve analiz etmesini istemişti. Yakın zamanda bir adresten gelen eposta içerisindeki bir .apk Mahmut'un dikkatini çekmişti. 
+```
 
 Verilen apkyi ([./20d0e07e19a3c91b8259afe0c591319e22af6cee.apk](20d0e07e19a3c91b8259afe0c591319e22af6cee.apk)) direk IDA'ya attik
 
