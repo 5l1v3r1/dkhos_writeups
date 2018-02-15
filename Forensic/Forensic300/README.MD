@@ -67,5 +67,5 @@ tabiki şifre karşılıyoruz. DKHOS ta kolay birşey olur mu ve bruteforce yapt
 
 
 ```
-DKHOS_{DKHOS_{4l_G1rd1n_g1rd1n}}
+DKHOS_{4l_G1rd1n_g1rd1n}
 ```
