@@ -139,5 +139,5 @@ Session    WindowStation Format                 Handle Object     Data
 
 ve  flagimiz
 ```
-DKHOS_{its_N0t_A_BuG_it_is_a_featuret}
+DKHOS_{its_N0t_A_BuG_it_is_a_feature}
 ```
