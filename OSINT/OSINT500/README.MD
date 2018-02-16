@@ -1,3 +1,4 @@
+# eni kalbimin ortasından vurdun Pelinsu - OSINT 500
 
 
 Sorunun son adımına çok erken ulaşmamıza rağmen ilk flagi bulan olamadık. Son adım biraz üzdü.

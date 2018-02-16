@@ -1,4 +1,4 @@
-# Hadi hoppala vede cuppala - Forensic 300
+# Bildiğim bütün küarlar... Paramparça ! - Forensic 200
 
 ```
 Pelinsu'nun uğradığı birçok lokasyonda kod parçaları bulunmaktaydı. İpucu neydi ?
