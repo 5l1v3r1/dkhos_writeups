@@ -2,4 +2,4 @@
 
 ## Içerik
 
-* [Tamirci Pala Remzi - Reversing 100](Reversing/Reversing100)
+* [Tamirci Pala Remzi - Reversing 100](Reversing100)
