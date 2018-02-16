@@ -20,7 +20,7 @@ Normalde write*up yazmayan bir insanım fakat nedense bu CTF için yazma gereği
   * [Hafıza kaybı - Forensic 400](Forensic/Forensic400)
   * [Son parça - Forensic 500](Forensic/Forensic500)
 - [Mobile](Mobile/)
-  * [Ayrılığın hediyesi - Mobile 100](Mobile/Mobile100)
+  * [Ayrılığın hediyesi - Mobile 100](Mobile/Mobile100)
   * [Zabaha kadar dans  - Mobile 300](Mobile/Mobile300)
 - [OSINT](OSINT/)
   * [Zazdarovje - OSINT 100](OSINT/OSINT100)
