@@ -1,5 +1,6 @@
 # DKHOS CTF WRITE-UP
 
+#### Öncelikle `PRODAFT` ekibine çok teşekkürler!
 ## Nedir bu DKHOS ?
 
 DKHOS ( a.k.a. Dünyayı Kurtaran Hackerin Oğlunun Sevgilisi ), 6 yıldır [`PRODAFT`](https://www.prodaft.com) ekibi tarafından düzenlenen serinin 3. bölümüdür.
