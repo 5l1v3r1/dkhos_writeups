@@ -3,7 +3,6 @@
 
 ```
 http://34.205.154.108  
-
 ```
 URL'ye gittik ve karsimiza bu  geldi
 ![](EsaretFirst.png)
