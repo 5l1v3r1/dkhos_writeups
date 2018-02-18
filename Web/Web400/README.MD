@@ -8,7 +8,7 @@ http://34.205.154.108
 URL'ye gittik ve karsimiza bu  geldi
 ![](EsaretFirst.png)
 
-ALttaki kismi decode edip html olarak geri koyduk.
+Alttaki kismi decode edip html olarak geri koyduk. Ve karşımıza `php` kodu belirdi
 
 ``` php
 
@@ -56,7 +56,7 @@ class Controller extends BaseController
 ```
 
 `data` parametrisne `base64` gelen veri, `checksum` parametresi ile uyusuyorsa `base64` decode edilip `unserialize` ediliyordu.
-`c` arreyini open metodu ile cagiriliyordu. En basta amele gibi class ismi arasakta birsey elde edemedik.
+`c` arrayini open metodu ile cagiriliyordu. En basta amele gibi class ismi arasakta birsey elde edemedik.
 
 Uzunca bir arastirma sornasi ( 4 gün uyumadan )
 [şöyle](https://github.com/ambionics/phpggc) birşeye denk geldik içinde laravel içinde `RCE` bulunmakta idi. Tamam diyip yola koyulduk.
