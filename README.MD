@@ -40,4 +40,5 @@ Normalde write*up yazmayan bir insanım fakat nedense bu CTF için yazma gereği
   * [Yamtar - Web 100](Web/Web100)
   * [Kımızım Kandan Bahtım Karadan - Web 200](Web/Web200)
   * [At - Web 300](Web/Web300)
+  * [Esaret - Web 400](Web/Web400)
   * [Biz de beklemiyorduk - Web 500](Web/Web500)
