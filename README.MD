@@ -1,7 +1,5 @@
 # DKHOS CTF WRITE-UP
 
-#### Öncelikle `PRODAFT` ekibine çok teşekkürler!
-#### Beaver takımının çözümlerini barındırır.
 ## Nedir bu DKHOS ?
 
 DKHOS ( a.k.a. Dünyayı Kurtaran Hackerin Oğlunun Sevgilisi ), 6 yıldır [`PRODAFT`](https://www.prodaft.com) ekibi tarafından düzenlenen serinin 3. bölümüdür.
@@ -12,7 +10,6 @@ DKHOS ( a.k.a. Dünyayı Kurtaran Hackerin Oğlunun Sevgilisi ), 6 yıldır [`PR
 alt="Hikaye" /></a>
 
 ## Içerik
-Normalde write*up yazmayan bir insanım fakat nedense bu CTF için yazma gereği duydum. Çünkü zevkli ve bilgi içeriyordu.
 
 - [Forensic](Forensic/)
   * [Karanlıkta Arayış Başlar - Forensic 100](Forensic/Forensic100)
